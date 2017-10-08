@@ -1,0 +1,4 @@
+export CLICOLOR=1
+LSCOLORS=exfxcxdxbxegedabagacad
+alias ll="ls -l"
+#source ~/.bash_profile       something bad happen
